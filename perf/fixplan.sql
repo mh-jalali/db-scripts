@@ -1,0 +1,16 @@
+--------------------------------------------------------------------------------
+--
+-- Script : fixplan.sql
+--
+-- Version : v1.1
+--
+-- Description : Fix plan for sql_id 
+-- Author : Mohamad Hosein Jalali <jalalii.mh@gmail.com>
+--
+--
+-- Usage :
+--    @sqlmon <sql_id> <sql_exec_id> <type>
+--    
+--    type - HTML/ACTIVE/XML/TEXT
+--
+--------------------------------------------------------------------------------
